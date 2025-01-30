@@ -73,7 +73,7 @@ These project outcomes can effectively facilitate data-driven decision-making at
 
 <br>
 
-<img width="500" alt="2" src="https://github.com/user-attachments/assets/0e31383a-f597-4845-ba1d-2ea632187065" />
+<img width="700" alt="2" src="https://github.com/user-attachments/assets/0e31383a-f597-4845-ba1d-2ea632187065" />
 
 
 . . . And many more
