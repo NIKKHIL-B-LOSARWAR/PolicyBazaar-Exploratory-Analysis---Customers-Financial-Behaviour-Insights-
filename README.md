@@ -8,9 +8,32 @@
 - The project aimed to conduct Exploratory Data Analysis (EDA) on the PolicyBazaar dataset to optimize financial product recommendations by gaining a deep understanding of the customer base. 
 - The development process was shaped by the analysis scope defined by the dataset's attributes and relevant business matrices. We focused on four key areas:
 
-  1. Customers' monthly finances analysis
-  2. Credit behavior analysis
-  3. Debt and loans analysis
-  4. Investment behavior analysis
+  - Area 1 : Customers' monthly finances analysis
+  - Area 2 : Credit behavior analysis
+  - Area 3 : Debt and loans analysis
+  - Area 4 : Investment behavior analysis
 For each area, we defined relevant business questions to assess PolicyBazaar's business scenario. 
 - In summary, the EDA process involved data import, cleaning, transformation, exploration, wrangling, visualization, interpretation, and generating key insights.
+
+
+Project Link - Colab Notebook
+
+### **Key Steps involved in EDA :**
+
+1. Importing Raw data.
+2. Data Exploration
+3. Data Cleaning
+4. Data Wrangling (Data Transformation and Manipulation)
+5. Data Visualization
+6. Deriving key data insights.
+
+### **Tools & Technologies Used :**
+
+* Python Language
+* Pandas & Numpy Library
+* Matplotlib Library
+* Seaborn Library
+* Folium Library
+* ChatGPT & Google Gemini (as an Virtual Assistant)
+
+**Note: This project is built in the Google Colab Notebook as an IDE.**
