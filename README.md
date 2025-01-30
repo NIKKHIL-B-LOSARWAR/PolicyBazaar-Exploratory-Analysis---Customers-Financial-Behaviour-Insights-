@@ -16,7 +16,7 @@ For each area, we defined relevant business questions to assess PolicyBazaar's b
 - In summary, the EDA process involved data import, cleaning, transformation, exploration, wrangling, visualization, interpretation, and generating key insights.
 
 
-Project Link - Colab Notebook
+Project Link - Colab Notebook [ Colab Notebook ](https://colab.research.google.com/drive/1z4YGWB8pi7TVKUHqQ5A6pVhC8Nwdy7Yv#scrollTo=qLd-lhDM56x5)
 
 ### **Key Steps involved in EDA :**
 
