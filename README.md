@@ -1,4 +1,4 @@
-# PolicyBazaar-Exploratory-Analysis---Customers-Financial-Behaviour-Insights-
+# PolicyBazaar Exploratory Analysis - Customers Financial Behaviour Insights
 
 
 <img width="910" alt="PolicyBazaar img" src="https://github.com/user-attachments/assets/6df19aa1-ba7a-41ff-997e-685203ae5b8f">
