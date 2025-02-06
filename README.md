@@ -5,16 +5,18 @@
 
 ## **Project Summary** 
 
-- The project aimed to conduct Exploratory Data Analysis (EDA) on the PolicyBazaar dataset to optimize financial product recommendations by gaining a deep understanding of the customer base. 
-- The development process was shaped by the analysis scope defined by the dataset's attributes and relevant business matrices. We focused on four key areas:
+- The project aimed to facilitate PolicyBazaar in delivering well-suited and optimized financial product recommendations by developing a deep understanding of its customer base. To achieve this, Exploratory Data Analysis (EDA) was conducted using Python's Pandas, NumPy, Matplotlib, and Seaborn libraries. Additionally, Gen AI tools such as ChatGPT and Google Gemini were leveraged to enhance efficiency, refine project scope, interpret insights effectively, and strengthen the knowledge base of the financial sector.
 
-  - Area 1 : Customers' monthly finances analysis
-  - Area 2 : Credit behavior analysis
-  - Area 3 : Debt and loans analysis
-  - Area 4 : Investment behavior analysis
-For each area, we defined relevant business questions to assess PolicyBazaar's business scenario. 
-- In summary, the EDA process involved data import, cleaning, transformation, exploration, wrangling, visualization, interpretation, and generating key insights.
+- The project generated 50 key data insights with business recommendations, utilizing 35 powerful visualization charts developed through the implementation of 27 analytical goals, all aligned with the project's business objectives.
 
+- The analysis framework was structured based on the dataset’s attributes and relevant business matrices. It focused on four key areas, each addressing critical business questions to evaluate PolicyBazaar’s business scenario:
+
+	- **Area 1:** Customers' monthly finances analysis
+	- **Area 2:** Credit behavior analysis
+	- **Area 3:** Debt and loans analysis
+	- **Area 4:** Investment behavior analysis
+
+- The project has the potential to simplify & optimize complex financial product recommendations landscape and enhance clarity for business professionals in the PolicyBazaar team. By providing data-driven insights, it enables improved strategic decision-making and more effective business planning for PolicyBazaar.
 
 **Project Link** -[ Colab Notebook ](https://colab.research.google.com/drive/1z4YGWB8pi7TVKUHqQ5A6pVhC8Nwdy7Yv#scrollTo=qLd-lhDM56x5)
 
