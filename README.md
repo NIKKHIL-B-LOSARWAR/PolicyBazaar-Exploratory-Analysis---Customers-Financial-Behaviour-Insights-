@@ -24,8 +24,8 @@
 
 In this project, after conducting the Exploratory Data Analysis for the PolicyBazaar Case Study We have achieved -
 
-  - Derieved **50 Data Insights + Business Recommendation**.
-  - Successful implementagion of **27 Analytical Goals** (Business Questions).
+  - Derived **50 Data Insights + Business Recommendations.**.
+  - Successful  implementation of **27 Analytical Goals** (Business Questions).
   - Crafted **35 key Visualizations**
 
 These project outcomes can effectively facilitate data-driven decision-making at PolicyBazaar, leading to strategic and optimized financial product recommendations.
